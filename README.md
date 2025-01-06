@@ -9,7 +9,7 @@
 - 🎨 灵感来源：山本耀司（Yohji Yamamoto）的极简主义时尚风格
 ![](https://github.com/Eternity-boundary/Eternity-boundary/blob/b4f1244dc5944d160f076b8e46089c0296513369/codestyle.png)
 ---
-##常用语言统计
+## 常用語言統計
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eternity-boundary&hide=rust)
 
