@@ -1,12 +1,12 @@
 # Eternity-boundary
 
-👋 Ciallo,欢迎来到我的 GitHub 主页！
+👋 Ciallo,歡迎來到我的 GitHub 主頁！
 
 ## 🚀 關於我
 - 🌱 正在學習：高級 **C++**、**Qt 框架**  
 - 🎮 熱衷於：遊戲，尤其是 **彩虹六號**,還有膜法
 - 👓 苟利國家生死以，豈因禍福避趨之
-- 🕊️ 我是鸽子，别指望我更新很快
+- 🕊️ 我是鴿子，別希望能更新很快
 - 🎨 靈感來源：山本耀司（Yohji Yamamoto）的極簡主義時尚風格
 ![](https://github.com/Eternity-boundary/Eternity-boundary/blob/b4f1244dc5944d160f076b8e46089c0296513369/codestyle.png)
 ---
