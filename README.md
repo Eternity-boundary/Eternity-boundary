@@ -18,7 +18,7 @@
 
 ### 程式設計語言
 - **C/C++**  
-- **JavaScript**（中級）  
+- **TypeScript**（中級）  
 - **SQL**、**HTML/CSS**
 
 ### 框架 & 庫
