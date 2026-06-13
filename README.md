@@ -12,7 +12,7 @@
 ---
 ## 常用語言統計
 
-![GitHub常用語言](https://github-stats.ubrong.com/api/top-langs/?username=Eternity-boundary&layout=compact&theme=tokyonight)
+![GitHub常用語言](https://github-readme-stats.vercel.app/api/top-langs/?username=Eternity-boundary)
 
 ## 💻 技能 & 工具
 
